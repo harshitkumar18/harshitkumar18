@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/harshit-kumar-a8a213249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshit-kumar-a8a213249/" height="30" width="40" /></a>
+<a href="https://[linkedin.com/harshit-kumar-a8a213249/](https://www.linkedin.com/in/harshit-kumar-a8a213249/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshit-kumar-a8a213249/" height="30" width="40" /></a>
 <a href="https://instagram.com/harshit_kumar_1807" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshit_kumar_1807" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/harshit_kumar_1807" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshit_kumar_1807" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/<kumarharsu8cd>/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<kumarharsu8cd>/profile" height="30" width="40" /></a>
