@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as Android Intern at Forgebox Technologies.
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-react-js-ten.vercel.app/](https://portfolio-react-js-ten.vercel.app/)
 
